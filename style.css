@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: azure;
+}
+
+main {
+    height: 120vh;
+}
+
+button {
+    margin-left: 2%;
+    margin-top: 3%;
+    padding: 1%;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.conteiner {
+    padding-bottom: 3%;
+}
+
+#box {
+    width: 150px;
+    height: 150px;
+    background: green;
+    margin-top: 10%;
+    margin-left: 20%;
+    position: relative;
+}
